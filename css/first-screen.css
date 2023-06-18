@@ -1,0 +1,43 @@
+.first-screen {
+    width: 100vw;
+    height: 100vh;
+    background-color: #141414;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.site__title {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 52px;
+    line-height: 60px;
+    letter-spacing: 0.2em;
+    margin-bottom: 10px;
+}
+
+.site__subtitle {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 105%;
+    letter-spacing: 0.2em;
+    color: #949494;
+}
+
+.site__subtitle_text {
+    color: #B055FF;
+}
+
+.site__scroll-down-block {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 30px;
+}
+
+.scroll-down {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 105%;
+    letter-spacing: 0.05em;
+}

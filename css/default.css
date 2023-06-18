@@ -6,6 +6,11 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    font-family: Ubuntu, sans-serif;
+    color: #fafafa;
+}
+
 img, svg {
     display: block;
     max-width: 100%;
