@@ -1,11 +1,11 @@
 .first-screen {
     width: 100vw;
     height: 100vh;
-    background-color: #141414;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 80px;
 }
 
 .site__title {

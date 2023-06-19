@@ -9,6 +9,7 @@ html {
 body {
     font-family: Ubuntu, sans-serif;
     color: #fafafa;
+    background-color: #141414;
 }
 
 img, svg {
@@ -49,4 +50,9 @@ fieldset {
 .visually-hidden {
     position: fixed;
     transform: scale(0);
+}
+
+.container {
+    max-width: 1160px;
+    margin: 0 auto;
 }
