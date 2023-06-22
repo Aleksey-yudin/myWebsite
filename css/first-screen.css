@@ -15,13 +15,14 @@
     line-height: 60px;
     letter-spacing: 0.2em;
     margin-bottom: 10px;
+    padding-left: 10px;  /* костыльное выравнивание из-за шрифта */
 }
 
 .site__subtitle {
     font-weight: 300;
     font-size: 20px;
     line-height: 105%;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.22em;
     color: #949494;
 }
 
