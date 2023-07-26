@@ -28,3 +28,11 @@
     align-items: center;
     gap: 20px;
 }
+
+.menu__item {
+    cursor: pointer;
+}
+
+.menu__item.active {
+    color: #B055FF;
+}

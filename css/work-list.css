@@ -40,3 +40,11 @@
     line-height: 118%;
     letter-spacing: 0.9px;
 }
+
+.work__item {
+    display: none;
+}
+
+.work__item.active {
+    display: flex;
+}
